@@ -1,0 +1,30 @@
+# Digital Forensics Case Report
+
+## Case Name
+Digital Forensics Case B4DM755
+
+## Investigator
+Vikas Sharma
+
+## Tools Used
+- FTK Imager
+- Autopsy
+
+## Investigation Summary
+A digital forensic investigation was performed using FTK Imager and Autopsy.
+
+## Tasks Performed
+- Added evidence item
+- Examined physical drive
+- Created forensic disk image
+- Verified image integrity using MD5/SHA1 hashes
+- Investigated deleted files
+- Recovered important files
+
+## Findings
+- Deleted files were identified successfully.
+- Evidence integrity was verified using hashes.
+- Suspicious and deleted artifacts were recovered.
+
+## Conclusion
+The investigation demonstrated the process of forensic evidence acquisition, analysis, verification, and recovery using digital forensic tools.

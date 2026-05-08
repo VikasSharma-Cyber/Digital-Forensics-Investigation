@@ -1,0 +1,9 @@
+# Chain of Custody
+
+| Date | Evidence ID | Handled By | Action |
+|---|---|---|---|
+| 08 May 2026 | EVID-001 | Vikas Sharma | Physical drive identified |
+| 08 May 2026 | EVID-002 | Vikas Sharma | Disk image created |
+| 08 May 2026 | EVID-003 | Vikas Sharma | Hash verification completed |
+| 08 May 2026 | EVID-004 | Vikas Sharma | Deleted files recovered |
+| 08 May 2026 | EVID-005 | Vikas Sharma | Evidence analyzed |

@@ -1,0 +1,8 @@
+# Investigation Notes
+
+- FTK Imager was used to add evidence.
+- Disk image was created.
+- Hash verification was completed.
+- Deleted files were identified.
+- Recovered files were exported.
+- Autopsy was used for basic file analysis.

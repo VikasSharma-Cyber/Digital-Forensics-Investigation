@@ -1,0 +1,9 @@
+# Evidence Log
+
+| Evidence ID | Evidence Type | Tool Used | Status |
+|---|---|---|---|
+| EVID-001 | Physical Drive | FTK Imager | Acquired |
+| EVID-002 | Disk Image | FTK Imager | Created |
+| EVID-003 | Hash Verification | FTK Imager | Verified |
+| EVID-004 | Deleted Files | FTK Imager | Recovered |
+| EVID-005 | File Analysis | Autopsy | Completed |
